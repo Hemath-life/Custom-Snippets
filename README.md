@@ -1,4 +1,4 @@
 # Custom-Snippets
 
-Here i'm gonna show my custom-snippets
+Here i'm gonna show my custom-snippets in VSCode
 
