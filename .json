@@ -1,0 +1,14 @@
+{
+	"Print to console": {
+		"scope": "javascript,typescript",
+		"prefix": "log",
+		"body": ["console.log('$1');", "$2"],
+		"description": "Log output to console"
+	},
+	"Require module": {
+		"scope": "javascript,typescript",
+		"prefix": "req",
+		"body": ["const $1 = require('$2')"],
+		"description": "import syntax"
+	}
+}
